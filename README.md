@@ -1,3 +1,3 @@
-AIPantry
+AIPantry.com
 
 ========
