@@ -7,4 +7,7 @@ Current support functions =>
 https://dev.aipantry.com/api/list_tables/api-name/api-key/
 -Creating New Table
 https://dev.aipantry.com/api/create_table/table-name/create-column-qty-count/column-query/api-name/api-key/
+-Insert New Data Into Current Table
+https://dev.aipantry.com/api/insert/table-name/table-columns-name/insert-dataset-qty-count/insert-dataset/api-name/api-key/
+
 ========
