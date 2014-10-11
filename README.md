@@ -13,4 +13,5 @@ https://dev.aipantry.com/api/insert/table_name/table_columns_name/insert_dataset
 https://dev.aipantry.com/api/select_all/table_name/desc_asc/rows_perpage/page_no/api_name/api_key/<br/>
 -Count Rows inside a Table <br/>
 https://dev.aipantry.com/api/rows_count/table_name/api_name/api_key/<br/>
+
 ========
