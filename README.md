@@ -1,6 +1,6 @@
 AIPantry.com <br/>
 
-We provide free online database for personal use via REST web service protocol. <br/>
+We provide free online SQL like database via REST web service protocol. <br/>
 
 Current support functions => <br/>
 -List Your Tables <br/>
