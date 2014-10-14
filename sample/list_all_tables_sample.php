@@ -3,7 +3,7 @@
  * * www.aipantry.com
  * Created by Solomon Tsao.
  * Date: 10/7/14
-* V1.0
+* V1.0.2
  * admin@aipantry.com
  */
 /* Your API Key set, you can get it from your user account page. ///http://www.aipantry.com/user/user_keyset/0/
