@@ -1,6 +1,8 @@
 AIPantry.com <br/>
 
-We provide free online SQL like database via REST web service protocol. <br/>
+We provide easy to use free online SQL like database via REST web service protocol. By useing our REST service, you don't need to have a powerful server to host your database. Instead, you can just focus on your web interface or mobile interface development and let us do all the rest database work for you. <br/>
+
+
 
 Current support functions => <br/>
 -List Your Tables <br/>
@@ -15,4 +17,5 @@ https://dev.aipantry.com/api/select_all/table_name/desc_asc/row_start/row_end/ap
 https://dev.aipantry.com/api/rows_count/table_name/api_id/api_key/<br/>
 -Delete Row inside a Table <br/>
 https://dev.aipantry.com/api/rows_count/table_name/row_id/api_id/api_key/<br/>
+
 ========
