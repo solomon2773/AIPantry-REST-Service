@@ -14,7 +14,7 @@ https://dev.aipantry.com/api/insert/jason_query/api_id/api_key/ <br/>
 https://dev.aipantry.com/api/select_columns/jason_query/api_id/api_key/ <br/>
 -Count Total Rows of a Table <br/>
 https://dev.aipantry.com/api/rows_count/table_name/api_id/api_key/<br/>
--Delete Row inside a Table <br/>
-https://dev.aipantry.com/api/delete_row/jason_query/api_id/api_key/ <br/>
+-Delete Rows inside a Table <br/>
+https://dev.aipantry.com/api/delete_rows/jason_query/api_id/api_key/ <br/>
 
 ========
