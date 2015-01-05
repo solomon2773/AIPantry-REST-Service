@@ -15,7 +15,7 @@ $api_key = '4f991db8c901763344262c6a8ff477a9f598399f0cf152888755967c5d7e4cfabf16
 // Let our system knows the rows you would like to delete from this table using row id or condition.
 $rows_array = array(
                     "delete_all_rows"=>"NO", ////YES or NO/////If "YES" was used, both "row_ids" and  "condition" are not required.//// If "NO" was used, both "row_ids" and  "condition" are  required.////
-                    "condition" => '|col2|=|werdsadsdsdsadfsadf|_*_OR_*_|col2|=|wadsdsdsadfsadf|_*_OR_*_|col1|=|wadsdsdsadfsadf|',
+                    "condition" => '|col2|like|%werdsadsdsdsadfsadf%|_*_OR_*_|col2|=|wadsdsdsadfsadf|_*_OR_*_|col1|=|wadsdsdsadfsadf|',
                     //////SQL like syntax. single quotes , double quotes, and semicolons are not allowed.
                     ///// Format :  |column_name|operators|values|_*_AND and OR Conjunctive Operators_*_|column_name|operators|values|  ///
                     ////////example : |col1|=|1| and |col2|=|5|      //////////
