@@ -21,12 +21,12 @@ $rows_array = array(
                     ///// Format :  |column_name|operators|values|_*_AND and OR Conjunctive Operators_*_|column_name|operators|values|  ///
                     ////////example : |col1|=|1| and |col2|=|5|      //////////
                     );
-///////////// select columns  array ////////////
+///////////// delete rows  array ////////////
 $delete_rows_data_array["timestamp"] = time();
 $delete_rows_data_array["table_name"] = 'testing_table_u';  //// You table name.
 $delete_rows_data_array["columns_json_query"] = $rows_array;
 $json_encode_query = urlencode(json_encode($delete_rows_data_array));
-//// Get Select Columns Response/////////
+//// Get  Delete Rows Response/////////
 $response = file_get_contents('https://dev.aipantry.com/api/delete_rows/'.$json_encode_query.'/'.$api_id.'/'.$api_key.'/');
 
 $response_decode = json_decode($response);
